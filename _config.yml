@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "es-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Carlos Nosa - Sitio web"
+title                    : "Carlos Nosa - Web"
 title_separator          : "-"
 name                     : &name "Carlos Nosa"
 description              : &description "Mi sitio web personal"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Carlos Nosa"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Matemático colombiano"
   location         : "Bogotá, Colombia"
   employer         : "Universidad Nacional de Colombia"
   uri              : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/carlos-enrique-nosa-guzman-069258300/"
+  linkedin         : "carlos-enrique-nosa-guzman-069258300"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
