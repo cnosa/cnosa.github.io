@@ -11,5 +11,5 @@ Soy graduado de Matemáticas y estudiante de posgrado en Matemáticas Aplicadas 
 
 Mi trabajo combina análisis teórico, simulación e implementación computacional reproducible, principalmente en Python y herramientas de código abierto. Como investigador en formación, busco profundizar en los fundamentos matemáticos de los modelos y explorar su potencial en contextos aplicados.
 
-- [Curriculum vitae en español][files/cv_cnosa_es.pdf]
-- [Curriculum vitae in english][files/cv_cnosa_en.pdf]
+- [Curriculum vitae en español](files/cv_cnosa_es.pdf)
+- [Curriculum vitae in english](files/cv_cnosa_en.pdf)
