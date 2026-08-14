@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : "https://arxiv.org/search/stat?searchtype=author&query=Nosa,+C"
-  googlescholar    : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=M8uEF5kAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0000-5707-0307"
