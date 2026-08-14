@@ -19,12 +19,12 @@ In this post, we introduce the model, discuss its probabilistic formulation, der
 
 Consider the linear model
 
-\[ \mathbf{y} = \mathbf{A}\mathbf{x} + \boldsymbol{\varepsilon}, \]
+\\[\mathbf{y} = \mathbf{A}\mathbf{x} + \boldsymbol{\varepsilon}, \\]
 
 where:
 
--  \(\mathbf{y} \in \mathbb{R}^n\) is the response vector,
--  \(X \in \mathbb{R}^{n\times p}\) is the design matrix,
--  \(\boldsymbol{\beta} \in \mathbb{R}^p\) is the vector of regression coefficients,
--  \(\boldsymbol{\varepsilon}\) is the error vector.
+-  \\(\mathbf{y} \in \mathbb{R}^n\\) is the response vector,
+-  \\(X \in \mathbb{R}^{n\times p}\\) is the design matrix,
+-  \\(\boldsymbol{\beta} \in \mathbb{R}^p\\) is the vector of regression coefficients,
+-  \\(\boldsymbol{\varepsilon}\\) is the error vector.
 
