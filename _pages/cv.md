@@ -11,31 +11,28 @@ redirect_from:
 
 Educación
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MSc. en Matemática Aplicada, Universidad Nacional de Colombia. Bogotá, Colombia. Ago 2025 – Presente.
+* Matemáticas, Grado de Honor, Universidad Nacional de Colombia. Bogotá, Colombia. Mar 2020 – May 2025.
 
 Experiencia laboral
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Nov 2025 – Presente: Especialista en visión por computadora
+  * Servicio Geológico Colombiano, Dirección de Hidrocarburos
+  * Creación, ejecución y puesta en producción de modelos de segmentación y clasificación para imágenes microscópicas utilizando herramientas de machine learning clásico y deep learning en Python, orientadas a visión por computadora.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2024 – Oct 2024: Consultor en modelamiento matemático y análisis de datos
+  * Universidad Nacional de Colombia, Facultad de Ciencias
+  * Desarrollo de modelos de IA basados en grafos para analizar datos sobre cambio climático y su impacto ambiental, económico y social en la región de La Mojana.
+  * Uso de Python, servicios en la nube y técnicas de minería y análisis de datos.
+  * Contribución al diseño e implementación de un marco para integrar información proveniente de múltiples modelos.
+  * Participación en la revisión bibliográfica, análisis de datos y preparación de documentación técnica del proyecto.
 
   
 Habilidades
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programación: Microsoft Office, LaTeX, Jupyter Notebooks, Python, Julia, R, Excel.
+* Lenguajes: Español, Inglés, Francés.
+* Habilidades blandas: Manejo del tiempo, comunicación efectiva, trabajo en equipo y colaboración, adaptabilidad, resolución de problemas y pensamiento analítico.
 
 Publicaciones
 ======
@@ -55,6 +52,13 @@ Docencia
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Otras experiencias
+
+Proyectos académicos
 ======
-* Currently 
+* Seminario de cálculo científico — Participante activo. Feb 2024 – Presente.
+  * Participación en un grupo de investigación centrado en optimización y métodos numéricos para ecuaciones diferenciales parciales, particularmente ecuaciones elípticas, con aplicaciones en física e ingeniería.
+
+
+Distinciones
+======
+* Beca de grado de honor por excelencia académica — Universidad Nacional de Colombia. Mayo 2025.
