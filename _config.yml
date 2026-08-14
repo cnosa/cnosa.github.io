@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "es-US"
+locale                   : "es-CO"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Carlos Nosa - Web"
 title_separator          : "-"
