@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2026-08-07-ConformalDefirmationLSMN
 excerpt: ''
 date: 2026-08-07
-venue: 'Journal 1'
+venue: 'Arxiv'
 slidesurl: 
 paperurl: 'https://arxiv.org/pdf/2608.06676'
 citation: 'Nosa, C., & Sosa, J. (2026). Latent space models for networks with nodal multiplicative effects (arXiv:2608.06676). arXiv. https://doi.org/10.48550/arXiv.2608.06676'
