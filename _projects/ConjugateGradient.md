@@ -1,6 +1,6 @@
 ---
 title: "Linear Gaussian Model"
-excerpt: "LGM <br/><img src='/images/data_example_2_recursive_batch.png'>"
+excerpt: "This project ... <br/><img src='/images/500x300.png'>"
 collection: projects
 ---
 
