@@ -26,9 +26,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Carlos Nosa"
   pronouns         : # example: "she/her"  
-  bio              : "Colombian mathematician"
+  bio              : "Matemático colombiano"
   location         : "Bogotá, Colombia"
-  employer         : "National University of Colombia"
+  employer         : "Universidad Nacional de Colombia"
   uri              : # URL
   email            : "cnosa@unal.edu.co" 
 
